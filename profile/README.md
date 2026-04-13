@@ -125,8 +125,8 @@ We are committed to:
 
 For collaboration requests or inquiries, please contact:
 
-📧 *[Add official email here]*  
-🌐 *[Add official website link here]*  
+📧 wagesn@vcu.edu  
+🌐 https://biostatistics.vcu.edu/research/massey/
 
 ---
 
