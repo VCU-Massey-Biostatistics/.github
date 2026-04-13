@@ -131,10 +131,10 @@ For collaboration requests or inquiries, please contact:
 
 ## 📌 Citation
 
-If you use our tools or collaborate with the BSSR, please acknowledge:
+If you use our tools or collaborate with the BSSR, please include the following acknowledgment in the manuscript:
 
-> Biostatistics Shared Resource (BSSR)  
-> VCU Massey Comprehensive Cancer Center  
+> “Services in support of this research were provided by the VCU Massey Cancer Center Biostatistics Shared Resource, supported in part with funding from NIH-NCI Cancer Center Support Grant P30 CA016059.”
+
 
 ---
 
