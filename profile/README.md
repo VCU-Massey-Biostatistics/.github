@@ -1,5 +1,4 @@
-# VCU Massey Comprehensive Cancer Center  
-## Biostatistics Shared Resource (BSSR)
+# VCU Massey Comprehensive Cancer Center Biostatistics Shared Resource (BSSR)
 
 Welcome to the official GitHub organization of the **Biostatistics Shared Resource (BSSR)** at the VCU Massey Comprehensive Cancer Center.
 
